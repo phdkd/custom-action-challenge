@@ -1,4 +1,4 @@
-name: Test Custom Actionon: [push, workflow_dispatch]
+name: Test Custom Action on: [push, workflow_dispatch]
 jobs:
   run-custom-action:
     runs-on: ubuntu-latest
